@@ -14,7 +14,7 @@ html,body{
     position: relative;
     height: 100%;
     width: 100%;
-    /* background-color: rgb(147, 147, 236); */
+    background-color: #90A2A6;
     cursor: none
 }
 .elem{
